@@ -13,6 +13,8 @@ I am a Data Analyst and Data Engineer with six years of experience transforming 
 - Professional experience at EXL Services, FPT Software Vietnam, Cognizant Technology, and Marshal Sales Corporation
 - Visa and banking projects covering customer segmentation, transaction forecasting, behavioral analytics, and quality automation
 - Interactive data-stack visualization
+- Interactive analytics dashboard with KPIs, trends, and channel performance
+- Inventory management demo with search, stock filters, and quantity controls
 - Responsive desktop and mobile experience
 - Animated 3D character, smooth scrolling, and project carousel
 - Direct links to GitHub, LinkedIn, Udacity, and HackerRank credentials
